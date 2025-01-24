@@ -715,7 +715,7 @@ img {
 
 .video-area {
  
-    background-image:url(image/video.jpg) ;
+    background-image:url(video.jpg) ;
     background-attachment: fixed;
     /* background: rgba(6, 21, 57, 0.98); */
     background-blend-mode: darken;
@@ -785,7 +785,7 @@ img {
 
 .testimonial-area
 {
-    background-image:url(image/2.jpg) ;
+    background-image:url(2.jpg) ;
     background-attachment: fixed;
     /* background: rgba(6, 21, 57, 0.98); */
     background-blend-mode: darken;
@@ -998,7 +998,7 @@ img {
 
 .cta-area
 {
-    background-image: url(image/section3.jpg);
+    background-image: url(section3.jpg);
     background-attachment: fixed;
     /* background: rgba(6, 21, 57, 0.98); */
     background-blend-mode: darken;
@@ -1098,7 +1098,7 @@ img {
 
 .client-area-pd {
     padding-bottom: 240px;
-    background-image: url(image/section3.jpg);
+    background-image: url(section3.jpg);
     background-attachment: fixed;
     /* background: rgba(6, 21, 57, 0.98); */
     background-blend-mode: darken;
